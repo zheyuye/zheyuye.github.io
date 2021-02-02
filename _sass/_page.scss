@@ -63,6 +63,12 @@
   p {
     margin: 0 0 $indent-var;
 
+    img {
+      display: block;
+      max-width: 90%;
+      margin: 5px 2em;
+    }
+
     /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
