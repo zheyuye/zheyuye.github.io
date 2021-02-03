@@ -18,7 +18,7 @@ Optimization, Information and Coding Theory, Complexity
 
 * B.Eng. Software Engineering in Wuhan University Of Technology, 2014-2018
     * GPA: 87.6 / 100 (Rank 5/77)
-    * Honours: Outstanding Graduates, 2018; 1st Scholarship (Top 5%), 2017
+    * Honours: Outstanding Graduates, 2018; First-Class Scholarship (Top 5%), 2017
 
 
 Work experience
