@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheyu Ye Profile"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Zheyu Ye"
 description              : &description "An initiative beginners and seeker of NLP"
