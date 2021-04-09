@@ -27,6 +27,6 @@ Technology
 
 Link
 ======
-[Source Code](https://github.com/ZheyuYe/TwitterSA) <br>
+[Source Code](https://github.com/zheyuye/TwitterSA) <br>
 [Report](../files/TwitterSentimentAnalysis_report.pdf) <br>
 [Presentation](../files/TwitterSentimentAnalysis_presentation.pptx)

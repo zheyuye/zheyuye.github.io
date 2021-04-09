@@ -26,6 +26,6 @@ Technology
 
 Link
 ======
-[Source Code](https://github.com/ZheyuYe/ImageLossyCompression) <br>
+[Source Code](https://github.com/zheyuye/ImageLossyCompression) <br>
 [Report](../files/ImageLossyCompression_report.pdf) <br>
 [Presentation](../files/ImageLossyCompression_presentation.pptx)
