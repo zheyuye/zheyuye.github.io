@@ -17,7 +17,7 @@ Main Work
 * Nothing but copy
 * Supports Chinese font
 * Supports photo mode with college logo and personal avatar
-* Supports [Overleaf edition][https://www.overleaf.com/latex/templates/resume-chinese/vbrmnfrgbscv]
+* Supports [Overleaf edition](https://www.overleaf.com/latex/templates/resume-chinese/vbrmnfrgbscv)
 
 Technology
 ======
