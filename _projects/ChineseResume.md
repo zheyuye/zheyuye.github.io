@@ -1,5 +1,5 @@
 ---
-title: "Chinese \LaTeX\  Résumé Template"
+title: "Chinese LaTeX  Résumé Template"
 collection: projects
 type: ""
 permalink: /projects/ChineseResume
