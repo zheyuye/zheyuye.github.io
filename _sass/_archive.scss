@@ -15,10 +15,15 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: thin solid $light-gray;
+
+    color: inherit;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      text-decoration: none;
+      border-bottom: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -45,6 +50,14 @@
 
   a + a {
     opacity: 0.5;
+  }
+
+  a {
+    border-bottom: thin solid $light-gray;
+    &:hover {
+      color: $link-color-hover;
+      border-bottom: none;
+    }
   }
 }
 
@@ -80,7 +93,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
