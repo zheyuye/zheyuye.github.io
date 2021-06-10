@@ -1,9 +1,9 @@
 ---
 title: "Chinese LaTeX  Résumé Template"
 collection: projects
-type: ""
+type: "Tiny Project"
 permalink: /projects/ChineseResume
-venue: "Imperial College London, Department of Computing"
+venue: "Personal"
 date: 2021-04-03
 location: “Shanghai, China"
 ---
