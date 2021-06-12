@@ -38,7 +38,7 @@ Work & Internship Experience
   * Supervisor: [Dr Xingjian Shi](https://sxjscience.github.io)
 
 * 2019.10-2019.11:  Algorithm Engineer Intern
-    * [Didi Chuxing Technology Co.](https://www.didiglobal.com/), Beijing
+    * [Didi Chuxing](https://www.didiglobal.com/), Beijing
     * Duties included:
         1. The research and development of an intermediate platform with natural language processing technology 
         2. Intent recognition of an intelligent outgoing speech algorithms
