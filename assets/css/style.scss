@@ -12,17 +12,26 @@
   padding: 0 40px;
 }
 
+.wrapper {
+  overflow: hidden;
+}
+
 header {
   float: left;
-  width: 300px;
-  margin-right: 40px;
-  padding-right: 40px;
+  width: 280px;
+  margin-right: 60px;
+  padding-right: 0;
 }
 
 section {
   float: left;
   width: calc(100% - 340px);
-  max-width: calc(100% - 340px);
+  overflow: hidden;
+}
+
+footer {
+  clear: both;
+  margin-top: 2em;
 }
 
 @media (max-width: 768px) {
