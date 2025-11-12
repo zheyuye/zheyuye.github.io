@@ -3,6 +3,56 @@
 
 @import "jekyll-theme-minimal";
 
+/* ================ Page Width Adjustments ================ */
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@media (max-width: 960px) {
+  .wrapper {
+    padding: 0 10px;
+  }
+}
+
+/* ================ Author Info ================ */
+
+.author-info {
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: 1px solid #e5e5e5;
+}
+
+.author-info p {
+  margin: 0.5em 0;
+}
+
+.author-info small {
+  display: block;
+  margin: 0.3em 0;
+}
+
+.author-links {
+  margin-top: 0.5em;
+}
+
+.author-links span {
+  display: inline-block;
+  margin-right: 1em;
+  margin-bottom: 0.3em;
+}
+
+.author-info a {
+  color: #267CB9;
+  text-decoration: none;
+}
+
+.author-info a:hover {
+  text-decoration: underline;
+}
+
 .img-circle {	
   opacity: 0.7;
   -moz-border-radius: 50%;	
@@ -34,11 +84,19 @@
 
 .timeline {
   position: relative;
-  width: 960px;
+  max-width: 960px;
+  width: 100%;
   margin: 0 auto;
   margin-top: 20px;
   padding: 1em 0;
   list-style-type: none;
+}
+
+@media (max-width: 960px) {
+  .timeline {
+    width: 100%;
+    padding: 1em;
+  }
 }
 .timeline:before {
   position: absolute;
@@ -75,10 +133,26 @@
   float: left;
   text-align: right;
 }
+
+@media (max-width: 960px) {
+  .direction-l {
+    width: 100%;
+    float: none;
+    text-align: left;
+  }
+}
+
 .direction-r {
   position: relative;
   width: 450px;
   float: right;
+}
+
+@media (max-width: 960px) {
+  .direction-r {
+    width: 100%;
+    float: none;
+  }
 }
 .flag-wrapper {
   position: relative;

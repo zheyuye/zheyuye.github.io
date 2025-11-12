@@ -23,6 +23,46 @@
 
         <p>{{ site.description }}</p>
 
+        {% if site.author %}
+          <div class="author-info">
+            {% if site.author.name %}
+              <p><strong>{{ site.author.name }}</strong></p>
+            {% endif %}
+            {% if site.author.bio %}
+              <p>{{ site.author.bio }}</p>
+            {% endif %}
+            {% if site.author.location %}
+              <p><small>📍 {{ site.author.location }}</small></p>
+            {% endif %}
+            {% if site.author.employer %}
+              <p><small>💼 {{ site.author.employer }}</small></p>
+            {% endif %}
+            {% if site.author.email %}
+              <p><small>📧 <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></small></p>
+            {% endif %}
+            <div class="author-links">
+              {% if site.author.googlescholar %}
+                <span><small>🔬 <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a></small></span>
+              {% endif %}
+              {% if site.author.github %}
+                <span><small>💻 <a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a></small></span>
+              {% endif %}
+              {% if site.author.linkedin %}
+                <span><small>💼 <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a></small></span>
+              {% endif %}
+              {% if site.author.researchgate %}
+                <span><small>🔬 <a href="{{ site.author.researchgate }}" target="_blank">ResearchGate</a></small></span>
+              {% endif %}
+              {% if site.author.orcid %}
+                <span><small>🔬 <a href="{{ site.author.orcid }}" target="_blank">ORCID</a></small></span>
+              {% endif %}
+              {% if site.author.uri %}
+                <span><small>🌐 <a href="{{ site.author.uri }}" target="_blank">Website</a></small></span>
+              {% endif %}
+            </div>
+          </div>
+        {% endif %}
+
       </header>
       <section>
 

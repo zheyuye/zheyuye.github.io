@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheyu Ye"
+title                    : "Zheyu Ye's Homepage"
 title_separator          : "-"
 name                     : &name "Zheyu Ye"
-description              : &description "An initiative beginners and seeker of NLP"
+description              : &description "Unlocking LLM Applications for Humanity's Progress"
 url                      : https://zheyuye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zheyuye/zheyuye.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Zheyu Ye"
   avatar           : "zheyu.jpg"
-  bio              : "An initiative beginners and seeker of NLP"
+  bio              : "Unlocking LLM Applications for Humanity's Progress"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

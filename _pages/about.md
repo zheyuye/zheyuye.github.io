@@ -3,6 +3,7 @@ layout: default-minimal
 permalink: /
 title: "About me"
 ---
+## About Me
 I am currently working as an NLP Algorithm Engineer at Xiaohongshu (小红书) in the NLP Group, focusing on large language model applications and AI Agent systems. I obtained my Master degree in MSc Advanced Computing from [Imperial College London](https://www.imperial.ac.uk/) in 2019, supervised by [Dr Anandha Gopalan](https://www.imperial.ac.uk/people/a.gopalan). Before that, I received B.E. degree of Software Engineering from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2018 under the supervision of [Prof. Luo Zhong](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_168516.htm).
 
 I previously worked as a Machine Learning Engineer at [Trip.com](https://www.trip.com/pages/about-us) in the Semantic Application Group, lead by Jianxun Ju. Before that, I worked as an Applied Scientist Intern supervised by [Dr Xingjian Shi](https://sxjscience.github.io) in [Amazon Web Services (AWS)'s AI Lab](https://github.com/awslabs) Shanghai in the group of GluonNLP lead by [Dr. Mu Li](http://www.cs.cmu.edu/~muli/) and [Dr. Alex Smola](https://alex.smola.org/). I am also a member of [DMLC](https://github.com/dmlc), constantly contributing to the open-source community of deep learning.
