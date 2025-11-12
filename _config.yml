@@ -15,7 +15,7 @@ url                      : https://zheyuye.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zheyuye/zheyuye.github.io"
 theme                    : jekyll-theme-minimal
-favicon                   : /images/zheyu.jpg
+favicon                   : /images/avatar-duck.jpeg
 profile                   : /images/zheyu.jpg
 lang                      : en-US
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
