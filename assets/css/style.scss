@@ -10,23 +10,23 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 40px;
-}
-
-.wrapper {
   overflow: hidden;
 }
 
-header {
-  float: left;
-  width: 280px;
-  margin-right: 60px;
-  padding-right: 0;
+.wrapper > header {
+  float: left !important;
+  width: 280px !important;
+  margin-right: 60px !important;
+  padding-right: 0 !important;
+  clear: left;
 }
 
-section {
-  float: left;
-  width: calc(100% - 340px);
+.wrapper > section {
+  float: left !important;
+  width: calc(100% - 340px) !important;
+  min-width: 0;
   overflow: hidden;
+  clear: none;
 }
 
 footer {
@@ -35,18 +35,20 @@ footer {
 }
 
 @media (max-width: 768px) {
-  header {
-    float: none;
-    width: 100%;
-    margin-right: 0;
-    padding-right: 0;
+  .wrapper > header {
+    float: none !important;
+    width: 100% !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
     margin-bottom: 2em;
+    clear: both;
   }
   
-  section {
-    float: none;
-    width: 100%;
-    max-width: 100%;
+  .wrapper > section {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    clear: both;
   }
 }
 
