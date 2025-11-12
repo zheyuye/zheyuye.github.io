@@ -11,22 +11,34 @@
   margin: 0 auto;
   padding: 0 40px;
   overflow: hidden;
+  box-sizing: content-box;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 60px !important;
 }
 
 .wrapper > header {
-  float: left !important;
+  flex: 0 0 280px !important;
   width: 280px !important;
-  margin-right: 60px !important;
-  padding-right: 0 !important;
-  clear: left;
+  max-width: 280px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  float: none !important;
+  clear: none !important;
+  box-sizing: border-box;
 }
 
 .wrapper > section {
-  float: left !important;
-  width: calc(100% - 340px) !important;
-  min-width: 0;
-  overflow: hidden;
-  clear: none;
+  flex: 1 1 auto !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  float: none !important;
+  clear: none !important;
+  box-sizing: border-box !important;
+  display: block !important;
 }
 
 footer {
@@ -35,20 +47,22 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column !important;
+    gap: 2em !important;
+  }
+  
   .wrapper > header {
-    float: none !important;
+    flex: 0 0 auto !important;
     width: 100% !important;
-    margin-right: 0 !important;
-    padding-right: 0 !important;
-    margin-bottom: 2em;
-    clear: both;
+    max-width: 100% !important;
+    margin-bottom: 0 !important;
   }
   
   .wrapper > section {
-    float: none !important;
+    flex: 0 0 auto !important;
     width: 100% !important;
     max-width: 100% !important;
-    clear: both;
   }
 }
 
