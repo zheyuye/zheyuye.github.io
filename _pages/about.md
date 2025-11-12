@@ -29,17 +29,17 @@ My research interests lie in Natural Language Processing, particularly in Large 
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">小红书</span>
-				<span class="time-wrapper"><span class="time">2021.12 - 至今</span></span>
+				<span class="flag">Xiaohongshu</span>
+				<span class="time-wrapper"><span class="time">Dec. 2021 - Present</span></span>
 			</div>
-			<div class="desc">NLP算法工程师，应用算法部</div>
+			<div class="desc">NLP Algorithm Engineer, Applied Algorithm Department</div>
 		</div>
 	</li>
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">携程旅行网</span>
-				<span class="time-wrapper"><span class="time">2020.08 - 2021.11</span></span>
+				<span class="flag">Trip.com</span>
+				<span class="time-wrapper"><span class="time">Aug. 2020 - Nov. 2021</span></span>
 			</div>
 			<div class="desc">Machine Learning Engineer in Semantic Application Group, lead by Jianxun Ju</div>
 		</div>
@@ -48,16 +48,16 @@ My research interests lie in Natural Language Processing, particularly in Large 
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">AWS AI Lab</span>
-				<span class="time-wrapper"><span class="time">2019.11 - 2020.08</span></span>
+				<span class="time-wrapper"><span class="time">Nov. 2019 - Aug. 2020</span></span>
 			</div>
-			<div class="desc">Applied Scientist Intern，GluonNLP Group</div>
+			<div class="desc">Applied Scientist Intern, GluonNLP Group</div>
 		</div>
 	</li>
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">帝国理工学院</span>
-				<span class="time-wrapper"><span class="time">2018.09 - 2019.11</span></span>
+				<span class="flag">Imperial College London</span>
+				<span class="time-wrapper"><span class="time">Sep. 2018 - Nov. 2019</span></span>
 			</div>
 			<div class="desc">MSc Advanced Computing</div>
 		</div>
@@ -65,10 +65,10 @@ My research interests lie in Natural Language Processing, particularly in Large 
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">武汉理工大学</span>
-				<span class="time-wrapper"><span class="time">2014.09 - 2018.06</span></span>
+				<span class="flag">Wuhan University of Technology</span>
+				<span class="time-wrapper"><span class="time">Sep. 2014 - June 2018</span></span>
 			</div>
-			<div class="desc">软件工程，本科</div>
+			<div class="desc">B.E. Software Engineering</div>
 		</div>
 	</li>
 </ul>
@@ -83,16 +83,4 @@ My research interests lie in Natural Language Processing, particularly in Large 
 设计复杂记忆系统、多路召回检索、世界模拟和对话联网等功能。搭建了业界首个落地的"斯坦福小镇"，支持对话与记忆因子推演，生成虚拟世界生活行程。项目获**小红书2024年度最佳项目（用户突破）**。 <br>
 *小红书，2023.04 - 2025.02* [[AI群聊]](https://raw.githubusercontent.com/zheyuye/zheyuye.github.io/refs/heads/master/images/202403292242282.jpg) [[AI宠物]](https://raw.githubusercontent.com/zheyuye/zheyuye.github.io/refs/heads/master/images/202403292242362.jpg) [[AI助手]](https://raw.githubusercontent.com/zheyuye/zheyuye.github.io/refs/heads/master/images/202403292242429.jpg) -->
 
-## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=1_AmlNsAAAAJ)
-\# indicates equal contributions.
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<!-- ## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=1_AmlNsAAAAJ) -->
