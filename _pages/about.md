@@ -1,11 +1,7 @@
 ---
+layout: default-minimal
 permalink: /
 title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 I am currently working as an NLP Algorithm Engineer at Xiaohongshu (小红书) in the NLP Group, focusing on large language model applications and AI Agent systems. I obtained my Master degree in MSc Advanced Computing from [Imperial College London](https://www.imperial.ac.uk/) in 2019, supervised by [Dr Anandha Gopalan](https://www.imperial.ac.uk/people/a.gopalan). Before that, I received B.E. degree of Software Engineering from [Wuhan University of Technology](http://english.whut.edu.cn/) in 2018 under the supervision of [Prof. Luo Zhong](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_168516.htm).
 
@@ -41,7 +37,7 @@ My research interests lie in Natural Language Processing, particularly in Large 
 				<span class="flag">Trip.com</span>
 				<span class="time-wrapper"><span class="time">Aug. 2020 - Nov. 2021</span></span>
 			</div>
-			<div class="desc">Machine Learning Engineer in Semantic Application Group, lead by Jianxun Ju</div>
+			<div class="desc">Machine Learning Engineer in Semantic Application Group</div>
 		</div>
 	</li>
 	<li>
