@@ -12,13 +12,13 @@ My research interests lie in Natural Language Processing, particularly in Large 
 
 ## Recent Highlights
 
-**Nov 2025.** One dataset paper accepted to **EMNLP 2025 Dataset Track** (RedOne: Revealing Domain-specific LLM Post-Training in Social Networking Services).
+**Nov 2025.** One dataset paper accepted to **EMNLP 2025 Industry** (RedOne: Revealing Domain-specific LLM Post-Training in Social Networking Services).
 
 **Jul 2025.** One paper accepted to **ACL 2025 Demo** (iPET: An Interactive Emotional Companion Dialogue System).
 
 **Jun 2025.** One paper received **ACL 2025 Outstanding Paper Award** (Towards the Law of Capacity Gap in Distilling Language Models).
 
-**Apr 2025.** One paper accepted to **SIGIR 2025 Industry Track** (PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval).
+**Apr 2025.** One paper accepted to **SIGIR 2025 Industry** (PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval).
 
 ## Experiences
 
